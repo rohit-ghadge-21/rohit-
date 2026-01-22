@@ -1,0 +1,505 @@
+.img{
+width: 100%;
+}
+img, svg {
+    vertical-align: middle;
+    width: 60px;
+
+
+border-radius: 0px 0px 0px 0px;
+  }
+  .sec1 h2{
+    color:rgb(75, 75, 191);
+
+    font-size:30px;
+    padding-left: 70px;
+    justify-item: center;
+  }
+  .sec1 h1{
+        font-size: 4rem;
+        padding-left: 5px;
+        color: black;
+        padding-left: 30px;
+  }
+  .sec8{
+    margin-top: 30px;
+  }
+  .sec8 img{
+  margin-left: 35%;
+  width: 30%;
+  }
+  
+  .elementor-button span {
+    text-decoration: none;
+  }
+  .elementor-button-content-wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    border-radius: 25px;
+    color: azure;
+    background-color: rgb(94, 94, 154);
+width:250px;
+height: 40px; 
+margin-top: 20px;
+margin-left: 20px;
+  }
+.sec h2{
+  color: rgb(2, 83, 83);
+  
+}
+.sec h1{
+
+font-size: 2.2rem;
+}
+.sec img{
+  
+  background-color: rgb(246, 247, 247);
+  margin-top: 40px;
+}
+  .info{
+    padding-top: 100px;
+  }
+  .info1{
+    width: 50%;
+  }
+  .head-btn{
+    padding: 10px;
+
+  }
+  .info1 h1{
+    padding: 10px;
+    
+    font-size: 4rem;
+    color: black
+  }
+  .info p{
+
+    color: blue;
+    padding-left:30PX; 
+  }
+  .info2 img{
+    width: 90%;
+    padding-left: 40PX;
+    padding-top: 30PX;;
+  
+  }
+  .heading h2{
+    font-size: 3rem;
+    color: black;
+  }
+  .service-box{
+    text-align: center;
+    margin: 40px;
+  }
+  img{
+    width: 50px;
+    margin-bottom: 20px;
+
+    
+
+  }
+  .service-box h2{
+    font-size: 50px;
+  }
+  .sec3{
+    background-image: url(../IMG/background/imges.jpg);
+  
+  }
+  .sec3 h2{
+    font-size: 3.5rem;
+    margin-left: 20px;
+  }
+  .sec4 img{
+  border-radius: 30px;
+  width: 100%;
+  }
+  .sec4 h2{
+    font-size: 2.3rem;
+    padding-left: 20px;
+  }
+  .sec5 .box{
+  margin-bottom: 70px;
+  }
+  .sec6{
+    background-color:rgb(183, 160, 160);
+    width: 100%;
+    height: 100px;
+  }
+  .sec4 p{
+    padding-left: 20px;
+  }
+  .elementor-button-text {
+
+  
+  order: 10;
+  display: inline-block;
+  }
+  
+    .btn{
+    font-size: 2rem;
+    padding-left: 0px;
+    text-align: center;
+    border-radius: 25px;
+    margin-left: 45px;
+    height: 45px;
+    width: 150px;
+    }  
+    .sec5 h2{
+      font-size: 3rem;
+      margin-top: 40px;
+      padding-left: 30px;
+    }
+    .sec5 .img1 img{
+      width: 100%;
+      height:350px;
+      border-radius: 40px;
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+    .mydiv h2{
+      padding-left: 20px;
+      font-size: 2.5rem;
+      color: black.5;
+    }
+    .mydiv p{
+      padding-left:20px;
+      width: 80%;
+      padding-top: 20px;
+    }
+
+    .sec8 li{
+      list-style: none;
+    }
+    /* }
+    .sec6 .btn{
+border-radius: 20px;
+    }
+    .sec6 .butt .btn{
+      border-radius: 40px;
+    }
+    
+.sec6 .icon .icon1 i{
+  margin-top: 20px;
+  color:white;
+  border-radius: 10px;
+  height: 20px;
+  background-color: rgb(24, 24, 85);
+}
+.sec6 .list p{
+  font-size: 20px;
+
+}
+.sec6 .list div i{
+  margin-top: 10px;
+  margin-right: 20px;
+}
+.sec6 .list .path{
+  margin-left: 40px;
+
+}
+.sec6 .list .path{
+  width: 70%;
+
+}
+.sec6 .list .path .book{
+  background-color: rgb(241, 245, 247);
+  width: 80%;
+  height: 330px;
+  position: relative;
+  top:-20px;
+  /* padding-top: 30px;
+  padding-left: 20px; */
+/* }
+.sec6 .path .gall{
+margin-right: 50px;
+}
+.sec6 .list .path .gall img{
+  width: 90px;
+  height: 100px;
+  margin-right: 90px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+
+}
+.sec6 .card{
+  border-radius: 50px;
+  height: 480px;
+  width: 80%;
+  
+}
+ .book .btn{
+margin-top: 30px;
+  width:80px;
+  margin-right: 100px;
+  
+}
+.sec6 .list p{
+  /* padding-top: 10px; */
+  /* font-size: 1rem;
+
+}
+.sec6 .list i{
+  padding-left: 10px;
+}
+.maindiv{
+  margin-top: 30px;
+}   */
+.sec7{
+  background-color: rgb(104, 104, 239);
+  width: 86%;
+  border-radius: 40px;
+  margin-left: 20px;
+  height: 350px;
+  
+
+  background-image: url(../IMG/background/group1.jpg);
+}
+.sec7 .btn1{
+border-radius: 60px;
+width: 95%;
+height: 60px;
+
+}
+.para7 h2{
+  color: azure;
+  margin-right: 20px;
+  margin-top: 40px;
+  font-size: 1.5rem;
+
+}
+ .sec7 .but{
+  height: 40%;
+  width: 40%;
+  margin-left: 40px;
+  position: relative;
+  top: -25px;
+  margin-right: 50px;
+  align-items: center;
+  border-radius: 25px;
+}
+.heading2 img{
+margin-left: 110px;
+padding-top: 80px;
+
+}
+  .linked ul li {
+  display: block;
+  padding: 5px;
+  margin-right: 40px;
+  font-size: 1rem;
+}
+.linked p{
+  padding-bottom: 10px;
+  color:black;
+  margin-left: 30px;
+  font-size: 20px;
+
+
+
+}
+.linked2 li{
+  text-decoration: none;
+  display: block;
+}
+.linked2 h4{
+  margin-right: 80px;
+  padding: 5px;
+}
+.linked2 ul li{
+  padding: 5px;
+}
+.linked2{
+  padding-bottom: 40px;
+}
+.linked2 .tex i{
+font-size: 1.5rem;
+color: rgb(102, 102, 226);
+}
+.sec9{
+  border-bottom: 2px solid rgb(25, 24, 24);
+width: 90%;
+margin-left: 20px;
+}
+.sec10 .para9{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+
+
+.heading2 p{
+  
+}
+
+
+
+
+
+
+
+@media (min-width:768px){
+  .sec8 img{
+    width: 20%;
+  }
+  .sec8 p{
+width: 90%;
+    margin-left: 20%;
+  }
+  
+  .sec8 ul{
+    position: relative;
+    bottom: -30%;
+    
+  }
+  
+  .sec8 h4{
+    position: relative;
+    bottom: -30%;
+    margin-left: 40px;
+  }
+  .sec8 .tex {
+    position: relative;
+    bottom: -30%;
+    margin-left: 45%;
+  }
+  .sec7{
+    position: relative;
+    right: -40px;
+}
+
+
+
+
+  
+  @media (min-width:992px){
+    .sec4 .btn{
+      margin-left: 250px;
+  }
+  .mydiv{
+    width:40%;
+
+  }
+  
+  .sec8 p{
+    width: 60%;
+    margin-left: 20%;
+  }
+  
+  .sec8 ul{
+    position: relative;
+    bottom: -35%;
+  }
+    .sec7{
+      position: relative;
+      right: -50px;
+  }
+  
+  .sec8 h4{
+    position: relative;
+    bottom: -30%;
+    margin-right: 20%;
+  }
+  .sec8 .tex {
+    position: relative;
+    bottom: -30%;
+    margin-left: 35%;
+  }
+  .heading {
+    width: 80%;
+    margin-left: 13%;
+  }
+  .sec p{
+width: 140%;
+      
+    }
+    .sec img{
+      margin-left: 30%;
+    }
+    
+  
+  .heading2 p{
+    width: 60%;
+    }
+    .linked p{
+      width: 90%;
+      margin-left:60px;
+    padding-right: 300px;
+    font-size: 2rem;
+    padding-bottom: 90px;
+    }
+    .linked2{
+      width: 40%;
+      margin-right: 80px;
+      padding-right:  40px;
+    }  
+    .main8{
+      display: flex;
+    }
+}
+    .heading2 p{
+      width: 80%;
+      
+    }
+    @media (min-width:768px){
+      .head {
+        width: 100%;
+      }
+    }
+    @media (min-width:1400px){
+      .sec7 h2{
+      text-align: center;
+      font-size: 3rem;
+      width: 40%;
+      margin-left: 30%;
+      }
+      .sec7{
+        position: relative;
+        right: -80px;
+      }
+      .sec8 img{
+        width: 20%;
+
+      }
+      .sec8 p{
+        width: 60%;
+        margin-left: 20%;
+      }
+      
+      .sec8 ul{
+        position: relative;
+        bottom: -35%;
+        
+      }
+      
+      .sec8 h4{
+        position: relative;
+        bottom: -30%;
+        margin-left: 40px;
+      }
+      .sec8 .tex {
+        position: relative;
+        bottom: -30%;
+        margin-right: 35%;
+      }
+      .heading {
+        width: 80%;
+        margin-left: 13%;
+      }
+    }
+
+  
+
+
+    
+    
+    
+  
+
+
+  
+

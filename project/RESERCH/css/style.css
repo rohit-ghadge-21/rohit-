@@ -1,0 +1,259 @@
+.main{
+    color: rgb(33, 178, 178);
+}
+.img1 img{
+    width: 30%;
+    margin-top: 30px;
+    
+}
+.img1 p{
+    color: aqua;
+    font-size: 40px;
+    margin-left: 90px;
+    position: relative;
+    bottom:70px;
+}
+.span p{
+    padding-top: 40px;
+
+}
+.img2 img{
+    width: 100%;
+    height: auto;
+    
+}
+.sec2{
+    background-color: rgb(232, 228, 228);
+}
+ .bt{
+    /* position: absolute;
+    bottom: -45px;
+    left: 50%;
+    letter-spacing: 0;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    transform: translateX(-50%);
+    border: 10px solid #f9f9f9;
+    padding: 20px 42px;
+    font-weight: 600;
+    font-size: 17px; */
+    background-color: blue;
+    position: relative;
+
+width: 30%;
+border-radius: 30px;
+left: 350px;
+font-size: 17px;
+padding-left: 20px;
+}
+
+.collapse {
+    position: relative;
+    right: -30%;
+}
+.sec1 h1{
+    color: aqua;
+    position: relative;
+    top: -10%;
+    left: -30px;
+    font-size: 3.5rem;
+}
+.sec2 h1{
+    margin-top: 40px;
+}
+.head{
+    margin-top: 40px;
+}
+.img3 img{
+    width: 40%;
+    margin-top: 50px;
+    
+}
+.sec3 h5{
+    margin-top: 30px;
+
+}
+.sec3 h1{
+    margin-bottom: 20px;
+
+}
+.sec3 p{
+    margin-top: 20px;
+    font-size: 10px;
+    width:55%;
+    margin-left: 70px;
+}
+.bt2 .btn{
+    border-radius: 20px;
+    background-color: blue;
+    width: 30%;
+    
+}
+.sec3{
+    background-color: rgb(232, 227, 227);
+    position: relative;
+    top: -40px;
+}
+.sec4{
+background:linear-gradient(rgba(7, 30, 160, 0.6),rgba(10, 4, 117, 0.6)),url(../img/background/imges1.jpg) no-repeat;
+width: 100%;
+height: 80vh;
+
+}
+.sec4 p{
+    font-size: 1rem;
+    
+    width: 70%;
+margin-left: 50px;
+}
+
+
+/* .sec5 h1{
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+.img5 img{
+    width: 50%;
+    border-radius: 30px;
+    
+}
+.para5 p{
+    font-size: 10px;
+    margin-top: 20px;
+    margin-right: 30px;
+    width: 100%;
+}
+.para5 a{
+    text-decoration: none;
+} */
+   
+   
+   
+   
+.img5 img{
+    width: 50%;
+    border-radius: 70px;
+    margin-bottom: 20px; 
+}
+.para5 a{
+    text-decoration: none;
+}
+.sec5 h1{
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+.para5 p{
+    font-size: 15px;
+    margin-top: 20px;
+    margin-right: 30px;
+    margin-left: 10px;
+    
+}
+.para5 p i{
+    color: aqua;
+}
+   /* .sec5 .card{
+    margin: 30px;
+    padding: 20px;
+   } */
+.sec5{
+    background-color: rgb(240, 237, 237);
+    padding-bottom: 40px;
+}
+.head6{
+  margin-top: 50px; 
+  margin-bottom: 50px; 
+}
+.img6 img{
+    width:80%;
+    border-radius: 120px;
+    border: 15px solid #f6f6f6;
+}
+.sec7{
+    background:linear-gradient(rgba(7, 30, 160, 0.6),rgba(10, 4, 117, 0.6)),url(../img/background/par-2.jpg) no-repeat; 
+    width: 100%;
+height: 130vh;
+}
+ h3{
+    margin-top: 50px; 
+}
+.input{
+    margin-bottom: 30px;
+}
+ .btn  {
+    border-radius: 40px;
+    width: 100%;
+margin-top: 60px;
+
+}
+.sec10{
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:992px){
+    .para p{
+        margin-bottom: 40px;
+        
+    }
+   
+    
+
+    .sec7{
+        background:linear-gradient(rgba(7, 30, 160, 0.6),rgba(10, 4, 117, 0.6)),url(../img/background/par-2.jpg) no-repeat; 
+        width: 100%;
+    height: 80vh;
+    }
+    .sec4{
+        background:linear-gradient(rgba(7, 30, 160, 0.6),rgba(10, 4, 117, 0.6)),url(../img/background/imges1.jpg) no-repeat;
+        width: 100%;
+        height: 50vh;
+}
+.sec4 P{
+    font-size: 1.7rem;
+    position: relative;
+    left: 10%;
+}
+}
+@media (min-width:768px){
+    .img6 img{
+margin-bottom: 50px;
+border-radius: 150px;
+    }
+    .sec7{
+        background:linear-gradient(rgba(7, 30, 160, 0.6),rgba(10, 4, 117, 0.6)),url(../img/background/par-2.jpg) no-repeat; 
+        width: 100%;
+    height: 80vh;
+    }
+    .sec4{
+        background:linear-gradient(rgba(7, 30, 160, 0.6),rgba(10, 4, 117, 0.6)),url(../img/background/imges1.jpg) no-repeat;
+        width: 100%;
+        height: 50vh;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
